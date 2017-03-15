@@ -13,10 +13,6 @@ public class ArrayListNames
         ArrayList<String> carNames = new ArrayList<String>();
 
         carNames.add("Nissan");
-        carNames.add("Ford");
-        carNames.add("BMW");
-        carNames.add("Ferrari");
-        carNames.add("Chevrolet");
         carNames.add("Honda");
         carNames.add("Lamborgini");
 
